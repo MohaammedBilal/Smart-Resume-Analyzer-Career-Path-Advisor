@@ -1,0 +1,99 @@
+bs
+bsc
+b.sc
+bachelor
+bachelors
+baccalaureate
+ba
+b.a
+bachelor of arts
+beng
+b.eng
+bachelor of engineering
+bfa
+b.fa
+bachelor of fine arts
+bba
+b.ba
+bachelor of business
+ms
+msc
+m.sc
+master
+masters
+ma
+m.a
+master of arts
+meng
+m.eng
+master of engineering
+mba
+m.b.a
+master of business
+mphil
+m.phil
+master of philosophy
+phd
+ph.d
+doctorate
+dphil
+d.phil
+edd
+ed.d
+doctor of education
+jd
+j.d
+juris doctor
+md
+m.d
+doctor of medicine
+llb
+ll.b
+bachelor of laws
+llm
+ll.m
+master of laws
+mtech
+m.tech
+master of technology
+btech
+b.tech
+bachelor of technology
+be
+b.e
+bachelor of engineering
+me
+m.e
+master of engineering
+diploma
+advance diploma
+graduate diploma
+associate degree
+a.a
+a.s
+degree in
+graduated in
+studied
+alumnus of
+alumni of
+educated at
+higher education
+tertiary education
+undergraduate
+postgraduate
+doctoral
+honours
+with honors
+matriculation
+graduation
+completed
+attended
+pursued
+coursework in
+exchange program
+study abroad
+dual degree
+joint degree
+candidate for
+expected
+in progress

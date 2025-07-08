@@ -1,0 +1,142 @@
+# Certification Keywords
+certification
+certifications
+certificate
+certificates
+licensure
+license
+credentials
+credentialing
+professional certification
+technical certification
+industry certification
+vendor certification
+accredited certification
+verified credential
+digital badge
+micro-credential
+specialization
+professional development
+continuing education
+CEU
+accreditation
+endorsement
+qualification
+competency certification
+skill certification
+exam certification
+certified
+passed
+completed
+awarded
+earned
+achieved
+obtained
+granted
+received
+
+# Common Certification Types
+IT certification
+technology certification
+software certification
+cloud certification
+AWS certified
+Azure certified
+Google Cloud certified
+Oracle certified
+Cisco certified
+CompTIA
+Microsoft certified
+PMI certification
+PMP
+Scrum certification
+Agile certified
+Six Sigma
+Lean
+ITIL
+security certification
+cybersecurity certified
+ethical hacking
+network certification
+data certification
+analytics certified
+AI certification
+machine learning certified
+data science certified
+programming certification
+Java certified
+Python certified
+JavaScript certified
+SQL certified
+web development certified
+frontend certified
+backend certified
+full stack certified
+mobile development certified
+devops certified
+docker certified
+kubernetes certified
+linux certified
+system administration
+
+# Education & Testing
+MOOC
+online course
+Coursera
+edX
+Udemy
+Udacity
+LinkedIn Learning
+Skillsoft
+Pluralsight
+Codecademy
+freeCodeCamp
+professional certificate
+graduate certificate
+postgraduate certificate
+exam passed
+test certification
+assessment passed
+board certified
+state certified
+nationally certified
+globally recognized
+industry-recognized
+
+# Academic & Specialized
+academic certification
+research certification
+teaching certification
+training certification
+safety certification
+healthcare certified
+medical certified
+financial certification
+accounting certified
+project management
+quality assurance
+compliance certified
+language certification
+English proficiency
+TOEFL
+IELTS
+driver certification
+aviation certified
+manufacturing certified
+engineer certified
+electrical certified
+mechanical certified
+civil certified
+
+# Organization Specific
+ISO certified
+IEEE certification
+ACM certification
+NABP certified
+ANSI accredited
+NATE certified
+OSHA certified
+FDA approved
+CE marked
+UL certified
+FCC certified

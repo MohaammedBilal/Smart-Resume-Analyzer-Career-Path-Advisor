@@ -1,0 +1,21 @@
+We are looking for a passionate and skilled Data Scientist to join our AI and Analytics team. You will work on cutting-edge machine learning problems to extract insights and build intelligent systems for business impact.
+
+### Responsibilities:
+- Build and evaluate machine learning models for classification, regression, and recommendation.
+- Develop NLP-based solutions for sentiment analysis and text classification.
+- Design deep learning pipelines using TensorFlow and PyTorch.
+- Work with large datasets using Pandas, NumPy, and SQL.
+- Communicate insights with clear visualizations (Tableau, Matplotlib).
+- Collaborate with product managers, data engineers, and developers.
+
+### Requirements:
+- Bachelor’s or Master’s in Data Science, Computer Science, or a related field.
+- Proficiency in Python, Scikit-learn, TensorFlow, PyTorch.
+- Strong SQL and data analysis experience.
+- Hands-on experience with NLP, recommender systems, and model evaluation.
+- Understanding of Git and version control workflows.
+
+### Preferred:
+- Experience with cloud platforms like AWS.
+- Familiarity with agile development environments.
+- Published projects or GitHub portfolio showcasing ML work.

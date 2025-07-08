@@ -1,0 +1,111 @@
+# Programming Languages
+python
+java
+javascript
+typescript
+c++
+c#
+go
+rust
+kotlin
+swift
+php
+ruby
+r
+scala
+
+# Web Development
+html
+css
+react
+angular
+vue
+node.js
+express
+django
+flask
+spring
+laravel
+asp.net
+jquery
+sass
+redux
+graphql
+restapi
+
+# Mobile Development
+android
+ios
+flutter
+reactnative
+xamarin
+swiftui
+kotlin multiplatform
+
+# Databases
+sql
+mysql
+postgresql
+mongodb
+oracle
+sqlite
+firebase
+cosmosdb
+dynamodb
+cassandra
+redis
+neo4j
+
+# DevOps & Cloud
+aws
+azure
+gcp
+docker
+kubernetes
+terraform
+ansible
+jenkins
+github actions
+ci/cd
+nginx
+apache
+serverless
+
+# Data Science & AI
+pandas
+numpy
+tensorflow
+pytorch
+scikitlearn
+opencv
+nltk
+spark
+hadoop
+tableau
+powerbi
+matplotlib
+seaborn
+
+# Testing
+selenium
+jest
+mocha
+junit
+pytest
+cypress
+postman
+soapui
+
+# Other Technologies
+blockchain
+solidity
+ethereum
+web3
+arduino
+raspberrypi
+linux
+bash
+git
+svn
+jira
+trello

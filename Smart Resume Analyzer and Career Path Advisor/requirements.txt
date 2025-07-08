@@ -1,0 +1,11 @@
+streamlit>=1.25.0
+spacy>=3.7.0
+sentence-transformers>=2.2.2
+transformers>=4.39.0
+torch>=2.1.0
+PyMuPDF>=1.23.7
+python-docx>=0.8.11
+fpdf>=1.7.2
+beautifulsoup4>=4.12.3
+scikit-learn>=1.4.1
+requests>=2.31.0
